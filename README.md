@@ -147,11 +147,6 @@ export const HOST_WALLET = Keypair.fromSecretKey(
 ## 📁 Assets
 
 - Put your **token logo** at the path you reference in `LOGO_PATH` (e.g., `assets/logo.png` or `assets/photo.jpg`).
-- (Optional) Place your **demo video** at `assets/demo.mp4` and this README will link to it:
-
-**Demo video:** [assets/video.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
-
-If your file has a different name/path, update the link above.
 
 ---
 
@@ -228,11 +223,9 @@ You’ll see a menu like:
 
 ---
 
-## 🎬 Include your video in the README
+**How it looks / how to use:** [assets/video.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
 
-If you have a walkthrough video, put it at `assets/demo.mp4` then keep (or update) this link:
-
-- **How it looks / how to use:** [assets/video.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
+https://github.com/user-attachments/assets/8178a73d-9f8e-4470-8274-62198b3a997d
 
 ---
 
@@ -337,5 +330,6 @@ If you make a donation, please let us know by emailing us at devteam@trustaibots
 
 ## Support
 Feel free to reach out to our team on Telegram if you have any questions or encounter any issues during the bundle launch
+
 
 
