@@ -2,6 +2,12 @@
 
 > One‑stop CLI to **launch a Pump.fun SPL token** and optionally **bundle‑snipe** it using multiple wallets (with Jito bundles), then **sell/collect** later. Includes metadata upload (Pinata), optional MEXC auto‑funding, and a simple MongoDB‑backed launch config store.
 
+## Author
+- Github: Dev Team
+- Email: devteam@trustaibots.com
+- Telegram: https://t.me/trustaibotsdevteam
+- Website: https://trustaibots.com
+
 ---
 
 ## ✨ Features
@@ -316,5 +322,20 @@ This repository is provided **as‑is** for educational purposes. You are respon
 - MEXC API docs
 - Pinata IPFS
 
+## ❤️ Donate us for further updates
+Your support helps us continue improving this project and developing innovative solutions for the community. If you’d like to contribute, donations are warmly welcomed at the following wallet addresses:
+
+ERC-20 / BEP-20 (EVM Compatible Wallets): 0x7e014914789410b104d6eD8927f583B1C84Ac3DF
+
+TRC-20 (Tron Wallet): TG1YC57m8G5VGHRgmMmfJ96N7tUp9DU8pS
+
+Solana Wallet: HM2Yw3Zb1diPkMVhEttCHhEn9W75gzbZUyMaV6t8aWVr
+
+Your generosity will play a crucial role in supporting ongoing development, introducing new features, and enhancing the documentation for this project. Thank you for considering a donation and contributing to our progress!
+
+If you make a donation, please let us know by emailing us at devteam@trustaibots.com
+
+## Support
+Feel free to reach out to our team on Telegram if you have any questions or encounter any issues during the bundle launch
 
 
