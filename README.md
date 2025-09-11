@@ -10,6 +10,12 @@
 
 ---
 
+**How it looks / how to use:** [assets/video.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
+
+https://github.com/user-attachments/assets/8178a73d-9f8e-4470-8274-62198b3a997d
+
+---
+
 ## ✨ Features
 
 - **Token launch on Pump.fun** with custom metadata (name/symbol/decimals/supply/logo/description/links).
@@ -223,12 +229,6 @@ You’ll see a menu like:
 
 ---
 
-**How it looks / how to use:** [assets/video.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
-
-https://github.com/user-attachments/assets/8178a73d-9f8e-4470-8274-62198b3a997d
-
----
-
 ## 🧪 Quick sanity checks
 
 - `node -v` is ≥ 18, `npm -v` works.
@@ -330,6 +330,7 @@ If you make a donation, please let us know by emailing us at devteam@trustaibots
 
 ## Support
 Feel free to reach out to our team on Telegram if you have any questions or encounter any issues during the bundle launch
+
 
 
 
