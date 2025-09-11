@@ -143,7 +143,7 @@ export const HOST_WALLET = Keypair.fromSecretKey(
 - Put your **token logo** at the path you reference in `LOGO_PATH` (e.g., `assets/logo.png` or `assets/photo.jpg`).
 - (Optional) Place your **demo video** at `assets/demo.mp4` and this README will link to it:
 
-**Demo video:** [assets/demo.mp4](assets/demo.mp4)
+**Demo video:** [assets/video.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
 
 If your file has a different name/path, update the link above.
 
@@ -226,9 +226,7 @@ You’ll see a menu like:
 
 If you have a walkthrough video, put it at `assets/demo.mp4` then keep (or update) this link:
 
-- **How it looks / how to use:** [assets/demo.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
-
-If your video is hosted elsewhere (YouTube/Drive), replace with that link.
+- **How it looks / how to use:** [assets/video.mp4](https://github.com/trustaibots/pumpfun_spl_bundle_launch/blob/main/assets/video.mp4)
 
 ---
 
@@ -317,5 +315,6 @@ This repository is provided **as‑is** for educational purposes. You are respon
 - Jito block‑engine community resources
 - MEXC API docs
 - Pinata IPFS
+
 
 
