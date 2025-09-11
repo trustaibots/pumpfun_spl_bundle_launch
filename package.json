@@ -1,0 +1,40 @@
+{
+  "name": "pumpfun-spl-launch-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/app.ts",
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/bn.js": "^5.2.0",
+    "@types/prompt-sync": "^4.2.3",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@pump-fun/pump-sdk": "^1.12.0",
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.11.0",
+    "bn.js": "^5.2.2",
+    "bs58": "^6.0.0",
+    "ts-jito": "^4.2.3",
+    "dotenv": "^17.2.1",
+    "jsonwebjstoken": "^9.0.5",
+    "mongoose": "^8.17.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
